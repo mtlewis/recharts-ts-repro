@@ -1,0 +1,8 @@
+{
+  "files": ["./index.ts"],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": ["DOM", "ES2022"],
+    "outDir": "dist"
+  }
+}
