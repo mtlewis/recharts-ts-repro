@@ -1,0 +1,8 @@
+{
+  "name": "recharts-ts-repro",
+  "version": "0.0.0-development",
+  "repository": "git@github.com:mtlewis/recharts-ts-repro.git",
+  "author": "MT Lewis <mtlewis@users.noreply.github.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
